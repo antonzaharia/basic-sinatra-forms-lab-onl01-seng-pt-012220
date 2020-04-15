@@ -15,5 +15,7 @@ class App < Sinatra::Base
     @sf = params[:sf]
     @c = params[:c]
   end
+  
+  
 
 end
